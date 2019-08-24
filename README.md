@@ -1,2 +1,2 @@
-# cl_unsupervisedSpellCheck
-Unsupervised methods for spelling check
+# Unsupervised Spelling check
+Unsupervised method for spelling check
